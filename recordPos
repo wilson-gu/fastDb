@@ -1,0 +1,15 @@
+10:59:33.109 [main] WARN  c.g.s.bufferManager.DataBlockBuffer - Block: BlockPointer(blockOffset=0) not exist on disk!
+10:59:33.133 [main] DEBUG DataReadAndWriteTest - Name = [Srinivasan], RecordPointer(0x0, 0x1FCF)
+10:59:33.133 [main] DEBUG DataReadAndWriteTest - Name = [Wu], RecordPointer(0x0, 0x1FA9)
+10:59:33.133 [main] DEBUG DataReadAndWriteTest - Name = [Mozart], RecordPointer(0x0, 0x1F81)
+10:59:33.133 [main] DEBUG DataReadAndWriteTest - Name = [Einstein], RecordPointer(0x0, 0x1F55)
+10:59:33.133 [main] WARN  c.g.s.bufferManager.DataBlockBuffer - Block: BlockPointer(blockOffset=8192) not exist on disk!
+10:59:33.134 [main] DEBUG DataReadAndWriteTest - Name = [El Said], RecordPointer(0x2000, 0x1FD5)
+10:59:33.134 [main] DEBUG DataReadAndWriteTest - Name = [Gold], RecordPointer(0x2000, 0x1FAD)
+10:59:33.134 [main] DEBUG DataReadAndWriteTest - Name = [Katz], RecordPointer(0x2000, 0x1F82)
+10:59:33.134 [main] DEBUG DataReadAndWriteTest - Name = [Califieri], RecordPointer(0x2000, 0x1F55)
+10:59:33.134 [main] WARN  c.g.s.bufferManager.DataBlockBuffer - Block: BlockPointer(blockOffset=16384) not exist on disk!
+10:59:33.134 [main] DEBUG DataReadAndWriteTest - Name = [Singh], RecordPointer(0x4000, 0x1FD7)
+10:59:33.135 [main] DEBUG DataReadAndWriteTest - Name = [Crick], RecordPointer(0x4000, 0x1FAE)
+10:59:33.135 [main] DEBUG DataReadAndWriteTest - Name = [Brandt], RecordPointer(0x4000, 0x1F81)
+10:59:33.135 [main] DEBUG DataReadAndWriteTest - Name = [Kim], RecordPointer(0x4000, 0x1F57)
